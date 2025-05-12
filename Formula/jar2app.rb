@@ -4,9 +4,9 @@
 class Jar2app < Formula
   desc "Merge multiple kubeconfig"
   homepage "https://github.com/PriateXYF/jar2app"
-  url "https://codeload.github.com/PriateXYF/jar2app/tar.gz/v1.0.4"
-  version "1.0.4"
-  sha256 "bb9e2cd041827852341e131578d433290ecfa3141061d9fb9238bc38fcc03644"
+  url "https://codeload.github.com/PriateXYF/jar2app/tar.gz/v1.0.5"
+  version "1.0.5"
+  sha256 "6d65c02207adde402051d24d9b590cd5ca3fbb14a126eccda89478795197200c"
   license ""
   head "https://github.com/PriateXYF/jar2app.git"
 
